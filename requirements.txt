@@ -3,4 +3,4 @@ requests
 python-dotenv
 selenium
 webdriver-manager
-telegram
+python-telegram-bot
